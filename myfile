@@ -6,4 +6,13 @@ third line from london
 
 foruth line from mumbai
  
-I am suggestig you that, in those day's every one can learn the cloud and devops. Later on go with certification. This is the best part for that to it. 
+I am suggestig you that, in those day's every one can learn the cloud and devops. Later on go with cer		tification. This is the best part for that to it.  
+
+12 line of code from mumbai for loggin out.
+
+sub()
+
+logout_button = driver.find_element(By.XPATH, "//div[contains(text(),'Logout')]")
+    logout_button.click(
+
+
