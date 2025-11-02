@@ -1,0 +1,27 @@
+sub ()
+
+#copy date from pdf to excel
+
+import PyPDF2
+import pandas as pd
+
+# Step 1: Open the PDF file
+pdf_path = "your_file.pdf"
+
+with open(pdf_path, "rb") as file:
+    reader = PyPDF2.PdfReader(file)
+    all_text = ""
+    
+    # Step 2: Extract text from all pages
+    for page in reader.pages:
+        all_text += page.extract_text() + "\n"
+
+# Step 3: Convert text into a list (split by lines)
+lines = [line.strip() for line in all_text.split("\n") if line.strip()]
+
+# Step 4: Save to Excel using pandas
+df = pd.DataFrame(lines, columns=["Extracted Text"])
+df.to_excel("output.xlsx", index=False)
+
+print("✅ Data extracted and saved to output.xlsx")
+ 
