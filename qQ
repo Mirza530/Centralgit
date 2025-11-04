@@ -1,0 +1,109 @@
+[33mcommit ff7df9d8603bb9ff55f61b7279c9b6fc44bd74d6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: sai <sai3cs@gmail.com>
+Date:   Thu Oct 30 22:21:02 2025 +0000
+
+    gitignore1
+
+[33mcommit 7f135c9fda4dd7c6480ef1b3a46cedbe6f705815[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 3469529 b7664f2
+Author: sai <sai3cs@gmail.com>
+Date:   Thu Oct 30 18:46:10 2025 +0000
+
+    fixed conflict
+
+[33mcommit b7664f2992666265cde9ef4ef08bd3245f44ab20[m[33m ([m[1;32mnew[m[33m)[m
+Author: sai <sai3cs@gmail.com>
+Date:   Thu Oct 30 18:39:24 2025 +0000
+
+    red color data
+
+[33mcommit 3469529a494f6d7ceef2bb9776f90853078a3885[m
+Author: sai <sai3cs@gmail.com>
+Date:   Thu Oct 30 18:36:06 2025 +0000
+
+    blue color data
+
+[33mcommit 66c73ba5114cca5ba8ed058de249932f60a25da6[m
+Author: sai <sai3cs@gmail.com>
+Date:   Mon Oct 27 22:58:21 2025 +0000
+
+    file
+
+[33mcommit 961fe4522c33e13b5f7a403728d152525d2c673c[m
+Author: sai <sai3cs@gmail.com>
+Date:   Mon Oct 27 08:38:20 2025 +0000
+
+    store all files/commit
+
+[33mcommit 04b28f79dc1b03fc9e24f093f394c662ae417c17[m
+Author: sai <sai3cs@gmail.com>
+Date:   Mon Oct 27 07:37:46 2025 +0000
+
+    myfiles
+
+[33mcommit e2bfa024502474d68a3f41496afa0dd165547a19[m
+Merge: b56d101 7f95cde
+Author: sai <sai3cs@gmail.com>
+Date:   Mon Oct 27 07:32:16 2025 +0000
+
+    .gitignore
+
+[33mcommit b56d10141cd0db3607e07ca7c722fb72dd855a09[m
+Author: sai <sai3cs@gmail.com>
+Date:   Sun Oct 26 06:12:00 2025 +0000
+
+    11 commit in mumbai
+
+[33mcommit 7f95cdec6f535d82f647b42d1cd50403fdba9847[m
+Author: hari <hair3cs@gmail.com>
+Date:   Sun Oct 26 05:32:17 2025 +0000
+
+    13 Commit from London
+
+[33mcommit 559a9d1146d127e1fcbaa2504fb589d323bcf037[m
+Author: hari <hair3cs@gmail.com>
+Date:   Sat Oct 25 00:03:27 2025 +0000
+
+    11 code in london
+
+[33mcommit ca3ed41a473724853e84bca6a75900c1a05ae7f6[m
+Author: sai <sai3cs@gmail.com>
+Date:   Fri Oct 24 23:02:39 2025 +0000
+
+    seventh commit
+
+[33mcommit 06f05cc2f3a2426d2d22f42b2eee502f71684a6a[m
+Author: hari <hair3cs@gmail.com>
+Date:   Fri Oct 24 22:31:53 2025 +0000
+
+    sixth commit
+
+[33mcommit 423f6130bbce716532ac8609786dfdf28e4f2fc2[m
+Author: sai <sai3cs@gmail.com>
+Date:   Fri Oct 24 21:41:36 2025 +0000
+
+    fith commit
+
+[33mcommit 7f2e76a185ba80f2c7801188d7b5226e2c5bfce5[m
+Author: sai <sai3cs@gmail.com>
+Date:   Fri Oct 24 00:18:19 2025 +0000
+
+    foruth commit
+
+[33mcommit d185f404faf4c855c866f819dba7000a274987bb[m
+Author: hari <hair3cs@gmail.com>
+Date:   Thu Oct 23 23:56:38 2025 +0000
+
+    third commit
+
+[33mcommit ce579926807dc73f7847fb0f36cef2ae045ed6fc[m
+Author: sai <sai3cs@gmail.com>
+Date:   Thu Oct 23 00:38:20 2025 +0000
+
+    second commit
+
+[33mcommit 2749a3457c4580ba298b479fa9c00bfc44362eae[m
+Author: sai <sai3cs@gmail.com>
+Date:   Wed Oct 22 23:27:49 2025 +0000
+
+    first commit
